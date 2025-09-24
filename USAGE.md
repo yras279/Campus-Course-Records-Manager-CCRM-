@@ -33,7 +33,7 @@
 ### Importing Data
 1. Place CSV files in the data directory
 2. Select "Import/Export Data" from main menu
-3. Choose import option
+3. Choosef the import option
 
 ### Creating Backups
 1. Select "Backup Operations" from main menu
