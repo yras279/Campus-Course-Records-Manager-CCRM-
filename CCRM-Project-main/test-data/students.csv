@@ -1,0 +1,4 @@
+ID,RegNo,FullName,Email,Status,DateCreated
+S001,2023001,John Doe,john.doe@example.com,ACTIVE,2023-09-01
+S002,2023002,Jane Smith,jane.smith@example.com,ACTIVE,2023-09-01
+S003,2023003,Robert Johnson,robert.j@example.com,ACTIVE,2023-09-01
